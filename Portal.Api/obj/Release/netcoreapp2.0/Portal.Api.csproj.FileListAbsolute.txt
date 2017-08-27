@@ -1,0 +1,11 @@
+C:\Users\pooya\Documents\Visual Studio 2017\Projects\Portal\Portal.Api\bin\Release\netcoreapp2.0\Portal.Api.deps.json
+C:\Users\pooya\Documents\Visual Studio 2017\Projects\Portal\Portal.Api\bin\Release\netcoreapp2.0\Portal.Api.runtimeconfig.json
+C:\Users\pooya\Documents\Visual Studio 2017\Projects\Portal\Portal.Api\bin\Release\netcoreapp2.0\Portal.Api.runtimeconfig.dev.json
+C:\Users\pooya\Documents\Visual Studio 2017\Projects\Portal\Portal.Api\bin\Release\netcoreapp2.0\Portal.Api.dll
+C:\Users\pooya\Documents\Visual Studio 2017\Projects\Portal\Portal.Api\bin\Release\netcoreapp2.0\Portal.Api.pdb
+C:\Users\pooya\Documents\Visual Studio 2017\Projects\Portal\Portal.Api\obj\Release\netcoreapp2.0\Portal.Api.csprojResolveAssemblyReference.cache
+C:\Users\pooya\Documents\Visual Studio 2017\Projects\Portal\Portal.Api\obj\Release\netcoreapp2.0\Portal.Api.csproj.CoreCompileInputs.cache
+C:\Users\pooya\Documents\Visual Studio 2017\Projects\Portal\Portal.Api\obj\Release\netcoreapp2.0\Portal.Api.AssemblyInfoInputs.cache
+C:\Users\pooya\Documents\Visual Studio 2017\Projects\Portal\Portal.Api\obj\Release\netcoreapp2.0\Portal.Api.AssemblyInfo.cs
+C:\Users\pooya\Documents\Visual Studio 2017\Projects\Portal\Portal.Api\obj\Release\netcoreapp2.0\Portal.Api.dll
+C:\Users\pooya\Documents\Visual Studio 2017\Projects\Portal\Portal.Api\obj\Release\netcoreapp2.0\Portal.Api.pdb
