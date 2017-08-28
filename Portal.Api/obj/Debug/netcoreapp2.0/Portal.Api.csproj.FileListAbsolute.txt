@@ -9,3 +9,14 @@ C:\Users\pooya\Documents\Visual Studio 2017\Projects\Portal\Portal.Api\obj\Debug
 C:\Users\pooya\Documents\Visual Studio 2017\Projects\Portal\Portal.Api\bin\Debug\netcoreapp2.0\Portal.Api.pdb
 C:\Users\pooya\Documents\Visual Studio 2017\Projects\Portal\Portal.Api\obj\Debug\netcoreapp2.0\Portal.Api.dll
 C:\Users\pooya\Documents\Visual Studio 2017\Projects\Portal\Portal.Api\obj\Debug\netcoreapp2.0\Portal.Api.pdb
+C:\Users\jeremy\Downloads\EmployeePortal-master\EmployeePortal-master\Portal.Api\bin\Debug\netcoreapp2.0\Portal.Api.deps.json
+C:\Users\jeremy\Downloads\EmployeePortal-master\EmployeePortal-master\Portal.Api\bin\Debug\netcoreapp2.0\Portal.Api.runtimeconfig.json
+C:\Users\jeremy\Downloads\EmployeePortal-master\EmployeePortal-master\Portal.Api\bin\Debug\netcoreapp2.0\Portal.Api.runtimeconfig.dev.json
+C:\Users\jeremy\Downloads\EmployeePortal-master\EmployeePortal-master\Portal.Api\bin\Debug\netcoreapp2.0\Portal.Api.dll
+C:\Users\jeremy\Downloads\EmployeePortal-master\EmployeePortal-master\Portal.Api\bin\Debug\netcoreapp2.0\Portal.Api.pdb
+C:\Users\jeremy\Downloads\EmployeePortal-master\EmployeePortal-master\Portal.Api\obj\Debug\netcoreapp2.0\Portal.Api.csprojResolveAssemblyReference.cache
+C:\Users\jeremy\Downloads\EmployeePortal-master\EmployeePortal-master\Portal.Api\obj\Debug\netcoreapp2.0\Portal.Api.csproj.CoreCompileInputs.cache
+C:\Users\jeremy\Downloads\EmployeePortal-master\EmployeePortal-master\Portal.Api\obj\Debug\netcoreapp2.0\Portal.Api.AssemblyInfoInputs.cache
+C:\Users\jeremy\Downloads\EmployeePortal-master\EmployeePortal-master\Portal.Api\obj\Debug\netcoreapp2.0\Portal.Api.AssemblyInfo.cs
+C:\Users\jeremy\Downloads\EmployeePortal-master\EmployeePortal-master\Portal.Api\obj\Debug\netcoreapp2.0\Portal.Api.dll
+C:\Users\jeremy\Downloads\EmployeePortal-master\EmployeePortal-master\Portal.Api\obj\Debug\netcoreapp2.0\Portal.Api.pdb

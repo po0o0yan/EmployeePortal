@@ -9,12 +9,19 @@ export class VacationBankComponent {
     public employee: Employee;
 
     constructor(http: Http, @Inject('BASE_URL') baseUrl: string) {
-        http.get(baseUrl + 'api/Employees/ca1b1787-2774-4fb2-9fa3-a7dc01677424').subscribe(result => {
+        //http.get(baseUrl + 'api/Employees/ca1b1787-2774-4fb2-9fa3-a7dc01677424').subscribe(result => {
+        //    this.employee = result.json() as Employee;
+        //}, error => console.error(error));
+        http.get('http://employeeportal-api.azurewebsites.net/api/Employees/ca1b1787-2774-4fb2-9fa3-a7dc01677424').subscribe(result => {
             this.employee = result.json() as Employee;
         }, error => console.error(error));
+        
     }
 }
 
 interface Employee {
-    VacationHours: number;
+    id: string;
+    firstName: string;
+    lastName: string;
+    vacationHours: number;
 }

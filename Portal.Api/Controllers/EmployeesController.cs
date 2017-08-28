@@ -16,7 +16,7 @@ namespace Portal.Api.Controllers
         }
 
         [HttpGet("{id}")]
-        public IEnumerable<Employee> Get(string Id)
+        public Employee Get(string Id)
         {
             return dal.GetEmployee(Id);
         }

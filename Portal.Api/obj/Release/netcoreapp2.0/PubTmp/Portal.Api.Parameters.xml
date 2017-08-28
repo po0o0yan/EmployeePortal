@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
-  <parameter name="IIS Web Application Name" description="" value="PortalApi20170827120655" tags="IisApp">
-    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\pooya\\Documents\\Visual\ Studio\ 2017\\Projects\\Portal\\Portal\.Api\\obj\\Release\\netcoreapp2\.0\\PubTmp\\Out\\$" />
+  <parameter name="IIS Web Application Name" description="" value="EmployeePortal-Api" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\jeremy\\Downloads\\EmployeePortal-master\\EmployeePortal-master\\Portal\.Api\\obj\\Release\\netcoreapp2\.0\\PubTmp\\Out\\$" />
   </parameter>
 </parameters>

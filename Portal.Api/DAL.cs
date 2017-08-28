@@ -15,11 +15,11 @@ namespace Portal.Api
         //private MongoServer mongoServer = null;
         private bool disposed = false;
 
-        internal IEnumerable<Employee> GetEmployee(string id)
+        internal Employee GetEmployee(string id)
         {
             var collection = GetEmployeesCollection();
             var filter = Builders<Employee>.Filter.Eq("Id", id);
-            return collection.Find(filter).ToList();
+            return collection.Find(filter).FirstOrDefault();
         }
 
         // To do: update the connection string with the DNS name
